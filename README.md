@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AreebaAliSiddiqui
 - 👀 I’m interested in AI and Machine Learninig
 - 🌱 I’m currently exploring Ai agents and LLms 
-- 💞️ I’m looking to collaborate on my 2D java game Project for my first semester
+- 💞️ Building an AI automation team.If you're passionate about scaling systems with AI, reach me.
 - 📫 How to reach me mail me at @areebaalisiddiqui@gmail.com
 - ⚡ Fun fact: I'll read anything everything 
 
